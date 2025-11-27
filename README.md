@@ -51,7 +51,7 @@ Edit `config.php` and set your database name, username, and password.
 
 ## Live deployment
 
-- **Live site:** `https://YOUR-LIVE-DOMAIN-HERE`
+- **Live site:** `https://ecotourrwanda.site`
 - Hosted on Hostinger Single Web Hosting with a free SSL certificate (HTTPS).
 
 ## Future improvements
